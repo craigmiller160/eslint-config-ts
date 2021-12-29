@@ -11,5 +11,11 @@
   },
   "files": [
     ".eslintrc.js"
-  ]
+  ],
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.8.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^5.8.1"
+  }
 }
